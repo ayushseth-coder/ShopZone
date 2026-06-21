@@ -21,9 +21,9 @@ The main goal of this project was to build a functional, lightweight frontend fo
 
 ## important link
 
-github respository link-- https://github.com/ayushseth-coder/kanban-board.git
+github respository link-- https://github.com/ayushseth-coder/ShopZone.git
 
-Live demo Link-- https://kanban-board-teal-iota.vercel.app
+Live demo Link-- https://shop-zone-sand.vercel.app/
 
 video link-- https://www.loom.com/share/4786b8766dd44d4e96f342e771643d20
 
