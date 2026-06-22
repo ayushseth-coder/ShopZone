@@ -49,3 +49,8 @@ If you want to spin this up on your own machine, it's pretty straightforward:
 - Add some fancy animations.
 
 Feel free to poke around the code and see how it works!
+
+## Adding extra feature
+1. Integrate a Dark/Light mode toggle in the Navbar
+2.  Integrate a third-party API (e.g., Frankfurter or ExchangeRate-API) to allow users to toggle currency states (e.g., INR to USD) in real-time.
+3. Add hover effect of home cards
